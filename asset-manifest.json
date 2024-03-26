@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/soundfx/static/css/main.54de5e61.css",
+    "main.js": "/soundfx/static/js/main.ba8bc0e7.js",
+    "static/js/453.056f12b7.chunk.js": "/soundfx/static/js/453.056f12b7.chunk.js",
+    "index.html": "/soundfx/index.html",
+    "main.54de5e61.css.map": "/soundfx/static/css/main.54de5e61.css.map",
+    "main.ba8bc0e7.js.map": "/soundfx/static/js/main.ba8bc0e7.js.map",
+    "453.056f12b7.chunk.js.map": "/soundfx/static/js/453.056f12b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54de5e61.css",
+    "static/js/main.ba8bc0e7.js"
+  ]
+}
